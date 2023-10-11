@@ -53,6 +53,7 @@ Estou sempre aberto a colaborações e gosto de trabalhar em equipe. Para  discu
   <a href="https://www.facebook.com/mateus.pevidor/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%234267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateus.pevidor30@gmail.com"><img src="https://img.shields.io/badge/gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-p-reis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://leetcode.com/MateusPevidor/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%23ffa116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mateus_pevidor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/users/169591425720254465" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/1154141886223765584" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
