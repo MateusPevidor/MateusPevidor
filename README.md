@@ -1,6 +1,6 @@
 ### Olá! 😄
 
-### Eu sou o Mateus. Estou mergulhado no mundo da programação e tenho o prazer de compartilhar alguns dos meus projetos aqui no GitHub.
+### Eu sou o Mateus. Estou no mundo da programação e tenho o prazer de compartilhar alguns dos meus projetos aqui no GitHub.
 
 Seja bem-vindo ao meu perfil, onde compartilho projetos pessoais das minhas aventuras no mundo da tecnologia. Estou sempre explorando novas ideias e aprimorando minhas habilidades.
 
@@ -12,7 +12,7 @@ Divirta-se explorando e não hesite em entrar em contato. Estou aqui para ajudar
 
 ### Sobre mim
 
-🎓 Sou graduado em Ciência da Computação pela Universidade Federal de Ouro Preto (UFOP) em 2023 e também concluí meu curso técnico em Informática pelo CEFET-MG em 2018.
+🎓 Sou graduado em Ciência da Computação pela Universidade Federal de Ouro Preto (UFOP) em Q1 2023 e também concluí meu curso técnico em Informática pelo CEFET-MG em 2018.
 
 📚 Minhas áreas de atuação incluem TypeScript, Node.JS, React e React Native. Além disso, tenho interesse por desenvolvimento frontend (web/mobile), backend, e gosto de me aprofundar em tópicos como inteligência artificial e processamento de imagens.
 
